@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "lc",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Literal Crafting",
+  "description": "Literal Crafting is a joke mod that I am making to learn java, original idea for this mod came from Phoenix SC on youtube.",
   "authors": [
-    "Me!"
+    "Drakon Development"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/AbyssDweller/Literal-Crafting"
   },
 
   "license": "CC0-1.0",
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.drakon.literalcrafting.LiteralCrafting"
     ]
   },
   "mixins": [
