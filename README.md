@@ -1,4 +1,10 @@
-# Fabric Example Mod
+# Literal-Crafting
+
+This mod will add funny joke recipes like 
+The Diamond chest plate
+
+![`unknown](https://user-images.githubusercontent.com/80689879/184420348-f1cad6b6-bebf-42c4-a0ae-3f61f2b2df6c.png)
+
 
 ## Setup
 
